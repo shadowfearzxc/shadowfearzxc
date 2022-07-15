@@ -38,7 +38,7 @@ and coding of course :computer:
 
 ### You can contact me:
 
-[<img align="left" alt="Instagram" width="26px" src="https://image.flaticon.com/icons/svg/174/174855.svg" />][instagram]
+[<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 [<img align="left" alt="vk" width="26px" src="https://img.icons8.com/ios-filled/344/vk-circled.png" />][vk]
 
 [instagram]: https://www.instagram.com/j00rbaleeleeleeleelee/
