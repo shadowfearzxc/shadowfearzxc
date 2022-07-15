@@ -42,5 +42,5 @@ and coding of course :computer:
 [<img align="left" alt="vk" width="26px" src="https://img.icons8.com/ios-filled/344/vk-circled.png" />][vkontakte]
 
 [instagram]: https://instagram.com/j00rbaleeleeleeleelee/
-[vkontakte]: https:/vk.com/kustanovich
+[vkontakte]: https://vk.com/kustanovich
 
