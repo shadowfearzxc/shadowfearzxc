@@ -41,6 +41,6 @@ and coding of course :computer:
 [<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 [<img align="left" alt="vk" width="26px" src="https://img.icons8.com/ios-filled/344/vk-circled.png" />][vk]
 
-[instagram]: https://www.instagram.com/j00rbaleeleeleeleelee/
-[vk]: https:/www.vk.com/kustanovich
+[instagram]: https://instagram.com/j00rbaleeleeleeleelee/
+[vk]: https:/vk.com/kustanovich
 
