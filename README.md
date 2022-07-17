@@ -4,7 +4,7 @@ Road to Junior
 
 I like
 - :car: car
-- :ball:
+- :8ball: billiard
 - :metal: Rap, Detroit
 
 and coding of course :computer:
