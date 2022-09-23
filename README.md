@@ -44,5 +44,5 @@ and coding of course :computer:
 [<img align="left" alt="linkedin" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 
 [instagram]: https://instagram.com/j00rbaleeleeleeleelee/
-[linkedine]: https://www.linkedin.com/in/kustanovich/
+[linkedin]: https://www.linkedin.com/in/kustanovich/
 
