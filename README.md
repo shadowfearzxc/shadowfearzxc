@@ -40,9 +40,7 @@ and coding of course :computer:
 
 ### You can contact me:
 
-[<img align="left" alt="Instagram" width="26px" src="https://img.icons8.com/fluency/344/instagram-new.png" />][instagram]
 [<img align="left" alt="linkedin" width="26px" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" />][linkedin]
 
-[instagram]: https://instagram.com/j00rbaleeleeleeleelee/
 [linkedin]: https://www.linkedin.com/in/kustanovich/
 
