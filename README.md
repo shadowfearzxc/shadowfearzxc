@@ -1,4 +1,4 @@
-## Hello, I'm Artur 19 y.o
+## Hello, I'm Artur XX y.o
 Road to Junior 
 ### I'm a young Software Engineer
 
